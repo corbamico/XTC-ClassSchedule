@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="lecture_1">体育 语文 英语 数学 语文</string>
+    <string name="lecture_2">数学 语文 语文 语文 科学</string>
+    <string name="lecture_3">语文 英语 数学 美术 美术</string>
+    <string name="lecture_4">音乐 数学 语文 体育 形体</string>
+    <string name="lecture_5">语文 音乐 体育 英语 语文</string>
+    <string name="lecture_6">班队 一一 综合 品德 一一</string>
+</resources>
